@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PitchPod
-thumbnail-path: "img/pitchpodco.png"
+thumbnail-path: "img/pitchpod2.png"
 short-description: Pitchpod is a thought leader's dream come true.
 
 ---

@@ -1,6 +1,7 @@
 ---
+layout: post
 title: ToDo
-thumbnail-path: "img/pitchpod.png"
+thumbnail-path: "img/todoist2.png"
 short-description: ToDoList helps you keep your day tidy and clean.
 ---
 
