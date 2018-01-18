@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio"
+baseurl: "/blog"
  url: "http://panga123.github.io" # the base hostname & protocol for your site
 
 sass:
