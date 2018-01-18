@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "0.0.0.0" # the base hostname & protocol for your site
+baseurl: "portfolio-iro"
+ url: "http://panga123.github.io" # the base hostname & protocol for your site
+
 sass:
     sass_dir: ./_scss
 
