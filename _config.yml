@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "Projects/portfolio-iro"
+baseurl: "/portfolio-iro/"
  url: "http://panga123.github.io" # the base hostname & protocol for your site
 
 sass:
