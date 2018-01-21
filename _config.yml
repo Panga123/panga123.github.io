@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://panga123.github.io" # the base hostname & protocol for your site
+url: "http://www.annmo.co" # the base hostname & protocol for your site
 
 sass:
     sass_dir: ./_scss
